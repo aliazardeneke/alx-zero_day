@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash echo ALX School is so cool! School
+=======
+#!/bin/bash 
+echo "ALX School"
+>>>>>>> 3af7396f0a8e90793dd652a354d01695faa39739
